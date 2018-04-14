@@ -47,8 +47,8 @@ table.tb_v4bc, .ctrlbr, .stBadge, td#CentralArea div.v4stabl, #glbfooter {
     background: #000;
 }
 .ner{
-max-width: 1373px;
-    margin: auto;	
+ max-width: 1373px !important;
+    margin: auto !important;	
 }
 .coldstora1 {
     font-size: 16px;
