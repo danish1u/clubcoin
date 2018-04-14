@@ -92,6 +92,9 @@ table.tb_v4bc, .ctrlbr, .stBadge, td#CentralArea div.v4stabl, #glbfooter {
     text-align: center;
     background: #0c0c0c;
 }
+.messageb1 p{
+	color: #fff;
+}
 .Leaveq a {
     font-size: 15px;
     font-weight: normal;
