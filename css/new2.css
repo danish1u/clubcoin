@@ -46,7 +46,10 @@ table.tb_v4bc, .ctrlbr, .stBadge, td#CentralArea div.v4stabl, #glbfooter {
 .footer{
     background: #000;
 }
-
+.ner{
+max-width: 1373px;
+    margin: auto;	
+}
 .coldstora1 {
     font-size: 16px;
     text-transform: uppercase;
@@ -97,5 +100,5 @@ table.tb_v4bc, .ctrlbr, .stBadge, td#CentralArea div.v4stabl, #glbfooter {
     background-color: #ffffff !important;
     color: #000 !important;
     text-decoration: none;
-    font-family: sans-serif;
+    font-family: sans-serif !important;;
 }
